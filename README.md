@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **igna#1337 (881376072015417375)**
 
-- ⚡ Fun fact: **I speak Spanish, japanese and a basic english**
+- ⚡ Fun fact: **I speak Spanish, japanese and a bit of english**
 
 
 <h3 align="left">Connect with me ~</h3>
