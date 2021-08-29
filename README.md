@@ -26,7 +26,7 @@
   <img align="left" alt="Ignacio's Keybase" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
 </a>
 <a href="https://www.last.fm/user/webhook">
-  <img align="left" alt="Ignacio's Last.fm" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/lastdotfm.svg" />
+  <img align="left" alt="Ignacio's Last.fm" width="20px" src="https://simpleicons.org/icons/lastdotfm.svg" />
 </a>
 <a href="https://open.spotify.com/playlist/3FmrgRF8OxtCHUmm9dRzRu?si=dedae40df81a4d68">
   <img align="left" alt="Ignacio's Spotify Playlist" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
