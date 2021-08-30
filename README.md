@@ -1,33 +1,34 @@
-<h1 align="center">Hi, I'm Ignacio</h1>
-<h3 align="center">A JavaScript and Python developer</h3>
+# Ohayo, I'm <a href="https://tixte.gifts" target="_blank">Ignacio</a> | ![Profile views](https://gpvc.arturio.dev/nekospara)
 
-<p align="center"> <img src="https://count.getloli.com/get/@nekospara" alt="nekospara" /> </p>
+<a href="https://discord.com/users/881376072015417375" target="_blank"><img align="left" alt="Ignacio | Discord Profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
+<a href="https://keybase.com/fumando" target="_blank"><img align="left" alt="Ignacio | Keybase" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/keybase.svg" />
+<a href="https://open.spotify.com/playlist/3FmrgRF8OxtCHUmm9dRzRu" target="_blank"><img align="left" alt="Ignacio | Spotify Playlist" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg" />
+<a href="https://last.fm/user/webhook" target="_blank"><img align="left" alt="Ignacio | last.fm" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/lastdotfm.svg" />
+<a href="https://tixte.gifts/" target="_blank"><img align="left" alt="Ignacio | Website" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vercel.svg" />
+<a href="https://myanimelist.net/profile/_dj" target="_blank"><img align="left" alt="Ignacio | MyAnimeList" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/myanimelist.svg" />
+</br> </br>
 
+### I work using ~
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.python.org" target="_blank">
+<img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>
+</a> <a href="https://www.w3schools.com/cpp/" target="_blank">
+<img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/>
+</a> <a href="https://git-scm.com/" target="_blank">
+<img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+</a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</a> <a href="https://www.photoshop.com/en" target="_blank">
+<img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/>
 
+</br> </br>
 
-- 🔭 I’m currently working on: [heroku-template](https://github.com/nekospara/heroku-example)
-
-- 🌱 I’m currently learning: **Rust**
-
-- 📫 How to reach me: **igna#1337 (881376072015417375)**
-
-- ⚡ Fun fact: **I speak Spanish, japanese and a bit of english**
-
-
-<h3 align="left">Connect with me ~</h3>
-
+### Contact me ~
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/881376072015417375)](https://discord.com/users/881376072015417375)
+</br> </br>
 
-<h3 align="left">Social Media ~</h3>
-<a href="https://discord.com/users/881376072015417375">
-  <img align="left" alt="Ignacio's Discord" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://keybase.io/fumando">
-  <img align="left" alt="Ignacio's Keybase" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
-</a>
-<a href="https://www.last.fm/user/webhook">
-  <img align="left" alt="Ignacio's Last.fm" width="20px" src="https://simpleicons.org/icons/lastdotfm.svg" />
-</a>
-<a href="https://open.spotify.com/playlist/3FmrgRF8OxtCHUmm9dRzRu?si=dedae40df81a4d68">
-  <img align="left" alt="Ignacio's Spotify Playlist" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
-</a>
+### Stats ~ 
+[![ignacio's github
+stats](https://github-readme-stats.vercel.app/api?username=nekospara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) 
