@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ignacio</h1>
 <h3 align="center">A JavaScript and Python developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nekospara&label=Profile%20views&color=cdf0ea&style=flat-square" alt="nekospara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nekospara&label=Profile%20views&style=flat-square" alt="nekospara" /> </p>
 
 
 
