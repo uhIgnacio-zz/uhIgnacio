@@ -1,4 +1,4 @@
-# Ohayo, I'm <a href="https://tixte.gifts" target="_blank">Ignacio</a> | ![Profile views](https://gpvc.arturio.dev/nekospara)
+# Ohayo, I'm <a href="https://tixte.gifts" target="_blank">Ignacio</a> | ![](https://komarev.com/ghpvc/?username=nekospara&color=gray)
 
 <a href="https://discord.com/users/881376072015417375" target="_blank"><img align="left" alt="Ignacio | Discord Profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
 <a href="https://keybase.com/fumando" target="_blank"><img align="left" alt="Ignacio | Keybase" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/keybase.svg" />
