@@ -1,4 +1,4 @@
-# Ohayo, I'm <a href="https://tixte.gifts" target="_blank">Ignacio</a> | ![](https://komarev.com/ghpvc/?username=nekospara&color=gray)
+# Ohayo, I'm <a href="https://tixte.gifts" target="_blank">Ignacio</a> | ![](https://komarev.com/ghpvc/?username=nekospara&color=gray) | ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F61245ab08ba6fe6c3e1da3b6)
 
 <a href="https://discord.com/users/883329546517110876" target="_blank"><img align="left" alt="Ignacio | Discord Profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
 <a href="https://keybase.com/fumando" target="_blank"><img align="left" alt="Ignacio | Keybase" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/keybase.svg" />
