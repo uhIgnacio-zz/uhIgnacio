@@ -11,5 +11,5 @@ Hi, I'm ignacio
 </p>
 <samp>
 <p align="center">
-<a href="igna@hypixel.one">e-mail</a> | <a href="https://discord.com/users/883329546517110876">discord</a> | <a href="https://steamcommunity.com/id/nulIed">steam</a> | <a href="https://t.me/SerialNumbers">telegram</a> | <a href="https://dsc.bio/language">bio</a>
+<a href="@igna.matrix.org">matrix</a> | <a href="https://discord.com/users/883329546517110876">discord</a> | <a href="https://steamcommunity.com/id/nulIed">steam</a> | <a href="https://t.me/SerialNumbers">telegram</a> | <a href="https://dsc.bio/language">bio</a>
 </p>
