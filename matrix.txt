@@ -1,1 +1,1 @@
-@igna.matrix.org
+@lgna:matrix.org
