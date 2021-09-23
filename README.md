@@ -1,3 +1,4 @@
-![](https://komarev.com/ghpvc/?username=uhIgnacio)
+![counter](https://count.getloli.com/get/@uhIgnacio?theme=gelbooru)
 
-###### [igna@waifu.club](mailto:igna@waifu.club) | D46B A45E 2E49 ECB3
+[[website](https://igna.rocks)] [[discord](https://discord.com/users/888960947438370837)] [[steam](https://steamcommunity.com/id/nulIed)]
+ <!-- [[name](https://example.com)] --> 
