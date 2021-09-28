@@ -10,7 +10,7 @@
 </li>
 <li><p>🌱 I’m currently learning: <strong>Nothing (atm)</strong></p>
 </li>
-<li><p>📫 How to reach me: <strong>igna#8972 (888960947438370837)</strong></p>
+<li><p>📫 How to reach me: <strong>igna#2000 (888960947438370837)</strong></p>
 </li>
 <li><p>⚡ Fun fact: <strong>I speak Spanish, japanese⁽ᵇᵃˢᶦᶜ⁾ and a bit of english</strong></p>
 </li>
