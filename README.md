@@ -17,6 +17,6 @@
 </ul>
 <h3 align="left">Connect with me ~</h3>
 
-<p><a href="https://discord.com/users/888960947438370837"><img src="https://lanyard-profile-readme.vercel.app/api/888960947438370837" alt="Discord Presence"></a></p>
+<p><a href="https://discord.com/users/888960947438370837"><img src="https://lanyard-profile-readme.vercel.app/api/888960947438370837" alt="Discord Presence | cant see image? reload website or contact on disc: igna#2000"></a></p>
 <p><h3 align="left">Social Media ~</h3>
 [<a href="https://igna.rocks">website</a>] | [<a href="https://discord.com/users/888960947438370837">discord</a>] | [<a href="https://steamcommunity.com/id/nulIed">steam</a>]
